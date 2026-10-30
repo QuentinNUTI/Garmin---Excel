@@ -1,0 +1,2 @@
+garminconnect>=0.2.25
+fitparse>=1.2.0
